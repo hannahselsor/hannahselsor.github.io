@@ -6,7 +6,8 @@
 </head>
 <body>
     <main> 
-    <h1> style="color: green;">The heading 1 will be green. </h1>
+    <style>
+    h1 {color: green;}
         <p></p>
     </main>
     <nav></nav>
