@@ -1,6 +1,17 @@
 ul li{
     display: inline-block;
-    border: 3px dotted;
+    border: 3px dashed;
+    text-decoration: underline;
+    text-align: center;
+    Width: 150px;
+    list-style-type: none;
+    padding: 15px 15px 15px 15px;
+    margin-top: 0;
+    margin-left: 10px;
+}
+ul li{
+    display: inline-block;
+    border: 3px dashed;
     text-decoration: underline;
     text-align: center;
     Width: 150px;
