@@ -1,11 +1,11 @@
 ul li{
-    display: inline;
-    border: dotted;
+    display: inline-block;
+    border: 3px dotted;
     text-decoration: underline;
     text-align: center;
     Width: 150px;
     list-style-type: none;
-    padding: 35px 35px 35px 35px;
+    padding: 15px 15px 15px 15px;
     margin-top: 0;
-    margin-left: 20px;
+    margin-left: 10px;
 }
