@@ -1,0 +1,26 @@
+h1 {color: #ff6666;}
+nav>ul>ul>li{
+    float: none;
+}
+nav>ul>li:hover>ul{
+    display: inside;
+}
+.dropdown-content a {
+    display: none;
+    color: #000000;
+    padding: 5px;
+    text-decoration: none;
+    overflow: hidden;
+}
+.dropdown:hover .dropdown-content a {
+    display:block;
+    color: #FFFFFF;
+     background-color: #00A4BD;
+}
+div {
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    border: 0px;
+    margin: 0;
+  }

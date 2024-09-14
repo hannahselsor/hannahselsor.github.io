@@ -1,0 +1,26 @@
+ul li{
+    display: inline-block;
+    border: 3px dashed;
+    text-decoration: underline;
+    text-align: center;
+    Width: 150px;
+    list-style-type: none;
+    padding: 0px 0px 0px 0px;
+    margin-top: 0;
+    margin-left: 10px;
+    Position: relative
+}
+nav a:link{
+    background-color: white;}
+nav a:hover, nav a:focus{
+    background-color:blueviolet;}
+nav a:active{
+    background-color:aquamarine;}
+nav ul>li ul {
+    position: absolute;
+    margin-top: 0;
+    display: none;
+}
+p {
+    text-indent: 100%
+}
