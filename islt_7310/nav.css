@@ -8,7 +8,7 @@ ul li{
     padding: 0px 0px 0px 0px;
     margin-top: 0;
     margin-left: 10px;
-    Position: relative
+    position: relative
 }
 nav a:link{
     background-color: white;}
@@ -21,6 +21,20 @@ nav ul>li ul {
     margin-top: 0;
     display: none;
 }
-p {
-    text-indent: 100%
-}
+p::first-letter {
+    font-size: 200%;
+    color: aquamarine;
+  }
+  p{
+    text-indent: -40px;
+    padding-left: 40px;
+  }
+
+#dropdown-learn{
+    display: none;
+  }
+#menu-learn:hover #dropdown-learn{
+    display: block;
+    float: left;
+  }
+
