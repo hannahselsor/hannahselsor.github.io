@@ -21,3 +21,6 @@ nav ul>li ul {
     margin-top: 0;
     display: none;
 }
+p {
+    text-indent: 100%
+}
