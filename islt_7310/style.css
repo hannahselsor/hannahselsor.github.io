@@ -7,7 +7,7 @@ h1 {color: #ff6666; text-align: center;}
 * {margin: 0; padding:0;}
 body {margin:1% auto; width: 100%; border: 0px solid black; font-size: xx-large}
 
-nav {border-bottom: 1px solid black; font-size: x-large}
+nav {border-bottom: 1px solid black; font-size: xx-large}
 header {border-bottom: 1px solid black;}
 main{border-bottom: 0px solid black;}
 footer{border-top: 0px solid black; clear: both; font-size: smaller}
