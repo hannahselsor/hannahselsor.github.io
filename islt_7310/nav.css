@@ -3,11 +3,11 @@ ul li{
   border: 4px dashed;
   text-decoration: underline;
   text-align: center;
-  Width: 140px;
+  Width: 150px;
   list-style-type: none;
   padding: 0px 0px 0px 0px;
   margin-top: 0;
-  margin-left: 0px;
+  margin-left: 2px;
   position: relative;
   font-size: 30px
 }
