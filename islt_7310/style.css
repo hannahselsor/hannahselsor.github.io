@@ -4,7 +4,7 @@ h1 {color: #ff6666;}
 
 /*entire page style*/
 * {margin: 0; padding:0;}
-body {margin:1% auto; width: 80%; border: 1px solid black;}
+body {margin:1% auto; width: 90%; border: 1px solid black;}
 
 nav {border-bottom:1px solid black;}
 header {border-bottom: 1px solid black;}
