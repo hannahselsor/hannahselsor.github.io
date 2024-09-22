@@ -1,14 +1,15 @@
 ul li{
-    display: inline-block;
-    border: 3px dashed;
-    text-decoration: underline;
-    text-align: center;
-    Width: 150px;
-    list-style-type: none;
-    padding: 0px 0px 0px 0px;
-    margin-top: 0;
-    margin-left: 10px;
-    position: relative
+  display: inline-block;
+  border: 4px dashed;
+  text-decoration: underline;
+  text-align: center;
+  Width: 150px;
+  list-style-type: none;
+  padding: 0px 0px 0px 0px;
+  margin-top: 0;
+  margin-left: 1px;
+  position: relative;
+  font-size: 30px
 }
 nav a:link{
     background-color: white;}
