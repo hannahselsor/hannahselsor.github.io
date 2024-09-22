@@ -1,7 +1,6 @@
 ul li{
   display: inline-block;
-  border-right: 10px;
-  border: 4px dashed;
+  border: 0px dashed;
   text-decoration: underline;
   text-align: center;
   Width: 150px;
@@ -10,7 +9,7 @@ ul li{
   margin-top: 0;
   margin-left: 30px;
   position: relative;
-  font-size: 30px
+  font-size: 20px
 }
 nav a:link{
     background-color: white;}
