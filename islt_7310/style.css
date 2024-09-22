@@ -1,4 +1,9 @@
-@media only screen and (min-width: 361px)
+@media screen and (min-width: 320px) 
+{
+h1 {color: blue;} 
+}
+
+@media screen and (min-width: 1024px)
 {
     h1 {color: #ff6666;} 
 
@@ -12,9 +17,4 @@ main{border-bottom: 1px solid black}
 footer{border-top: 1px solid black; clear: both;}
 
 h1 {padding: 10px; font-size: 14pt;}
-}
-
-@media only screen and (max-width: 360px)
-{
-h1 {color: blue;} 
 }
