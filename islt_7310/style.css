@@ -1,4 +1,6 @@
-h1 {color: #ff6666;} 
+@media only screen and (min-width: 320px)
+{
+    h1 {color: #ff6666;} 
 
 /*entire page style*/
 * {margin: 0; padding:0;}
@@ -10,6 +12,7 @@ main{border-bottom: 1px solid black}
 footer{border-top: 1px solid black; clear: both;}
 
 h1 {padding: 10px; font-size: 14pt;}
+}
 
 @media only screen and (max-width: 320px)
 {
