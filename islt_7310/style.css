@@ -12,7 +12,7 @@ header {border-bottom: 1px solid black;}
 main{border-bottom: 0px solid black;}
 footer{border-top: 0px solid black; clear: both; font-size: smaller}
 
-h1 {padding: 10px; font-size: 14pt;}
+h1 {padding: 10px; font-size: 44pt;}
 }
 
 @media screen and (min-width: 1024px)
@@ -27,5 +27,5 @@ header {border-bottom: 1px solid black;}
 main{border-bottom: 1px solid black}
 footer{border-top: 1px solid black; clear: both; font-size: medium}
 
-h1 {padding: 10px; font-size: 14pt;}
+h1 {padding: 10px; font-size: 44pt;}
 }
