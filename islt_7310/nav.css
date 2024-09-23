@@ -24,7 +24,7 @@ nav ul>li ul {
 }
 p::first-letter {
     font-size: 200%;
-    color: aquamarine;
+    color: black;
   }
   p{
     text-indent: -40px;
