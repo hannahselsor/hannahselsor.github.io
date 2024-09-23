@@ -5,14 +5,14 @@ h1 {color: #ff6666; text-align: center;}
 
 /*entire page style*/
 * {margin: 0; padding:0;}
-body {margin:1% auto; width: 100%; border: 0px solid black; font-size: xx-large; font-family: Arial}
+body {margin:1% auto; width: 100%; border: 0px solid black; font-size: xx-large; font-family: Arial; background-color: #00cccc;}
 
 nav {border-bottom: 1px solid black; font-size: xx-large; font-family: Arial}
-header {border-bottom: 1px solid black;}
-main{border-bottom: 0px solid black;}
-footer{border-top: 0px solid black; clear: both; font-size: smaller; font-family: Arial}
+header {border-bottom: 1px solid black;background-color: #00cccc;}
+main{border-bottom: 0px solid black; background-color: #00cccc;}
+footer{border-top: 0px solid black; clear: both; font-size: smaller; font-family: Arial; background-color: #00cccc;}
 
-h1 {padding: 10px; font-size: 44pt; font-family: Georgia;}
+h1 {padding: 10px; font-size: 44pt; font-family: Georgia; background-color: #00cccc;}
 }
 
 @media screen and (min-width: 1024px)
@@ -20,14 +20,14 @@ h1 {padding: 10px; font-size: 44pt; font-family: Georgia;}
 
 /*entire page style*/
 * {margin: 0; padding:0;}
-body {margin:1% auto; width: 90%; border: 1px solid black; font-size: medium; font-family: Arial}
+body {margin:1% auto; width: 90%; border: 1px solid black; font-size: medium; font-family: Arial; background-color: #00cccc;}
 
-nav {border-bottom:1px solid black; font-size: medium; font-family: Arial}
-header {border-bottom: 1px solid black;}
-main{border-bottom: 1px solid black}
-footer{border-top: 1px solid black; clear: both; font-size: medium; font-family: Arial}
+nav {border-bottom:1px solid black; font-size: small; font-family: Arial}
+header {border-bottom: 1px solid black; background-color: #00cccc;}
+main{border-bottom: 1px solid black; background-color: #00cccc;}
+footer{border-top: 1px solid black; clear: both; font-size: medium; font-family: Arial; background-color: #00cccc;}
 
-h1 {padding: 10px; font-size: 27pt; font-family: Georgia}
+h1 {padding: 10px; font-size: 27pt; font-family: Georgia; background-color: #00cccc;}
 }
 
 @media print {
