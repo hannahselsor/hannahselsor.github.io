@@ -12,7 +12,7 @@ ul li{
   font-size: 15px
 }
 nav a:link{
-    background-color: white;}
+    background-color: blueviolet;}
 nav a:hover, nav a:focus{
     background-color:blueviolet;}
 nav a:active{
