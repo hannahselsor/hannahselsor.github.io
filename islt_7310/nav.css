@@ -9,11 +9,12 @@ ul li{
   margin-top: 0;
   margin-left: 0px;
   position: relative;
+  text-emphasis-color: black;
 }
 nav a:link{
-    background-color: blueviolet;}
+    background-color: #E3B24B;}
 nav a:hover, nav a:focus{
-    background-color:blueviolet;}
+    background-color:#E3B24B;}
 nav a:active{
     background-color:aquamarine;}
 nav ul>li ul {
