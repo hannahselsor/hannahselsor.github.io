@@ -9,18 +9,20 @@ ul li{
   margin-top: 0;
   margin-left: 0px;
   position: relative;
-  text-emphasis-color: black;
 }
 nav a:link{
-    background-color: #E3B24B;}
+    background-color: #901FFA;}
 nav a:hover, nav a:focus{
-    background-color:#E3B24B;}
+    background-color:#901FFA;}
 nav a:active{
     background-color:aquamarine;}
 nav ul>li ul {
     position: absolute;
     margin-top: 0;
     display: none;
+}
+ul a {
+  color: whitesmoke;
 }
 p::first-letter {
     font-size: 200%;
