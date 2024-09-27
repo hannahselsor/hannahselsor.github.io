@@ -10,7 +10,7 @@ body {margin:5% auto; width: 100%; border: 0px solid black; font-size: xx-large;
 nav {border-bottom: 1px solid black; font-size: xx-large; font-family: Arial}
 header {border-bottom: 1px solid black;background-color: #E38D71;}
 main{border-bottom: 0px solid black; background-color: #E38D71;}
-footer{border-top: 0px solid black; clear: both; font-size: smaller; font-family: Arial; background-color: #E38D71;}
+footer { border-top: 1px solid black; clear: both; font-size: small; font-family: Arial; background-image: url(./images/backgrounds.jpg); background-repeat:no-repeat; background-size:cover;}
 
 h1 {padding: 10px; font-size: 44pt; font-family: Georgia; background-color: #E38D71;}
 }
@@ -25,7 +25,7 @@ body {margin:5% auto; width: 90%; border: 1px solid black; font-size: x-large; f
 nav {border-bottom:1px solid black; font-size: large; font-family: Arial}
 header {border-bottom: 1px solid black; background-color: #E38D71;}
 main{border-bottom: 1px solid black; background-color: #E38D71;}
-footer { border-top: 1px solid black; clear: both; font-size: medium; font-family: Arial; background-image: url(./images/backgrounds.jpg); background-repeat:no-repeat; background-size:cover; }
+footer { border-top: 1px solid black; clear: both; font-size: medium; font-family: Arial; background-image: url(./images/backgrounds.jpg); background-repeat:no-repeat; background-size:cover;}
 h1 {padding: 10px; font-size: 27pt; font-family: Georgia; background-color: #E38D71;}
 }
 
@@ -37,10 +37,4 @@ h1 {padding: 10px; font-size: 27pt; font-family: Georgia; background-color: #E38
  blockquote {color: black; font-family: serif;}
  footer {color: black; font-family: serif;}
  nav {display: none;}
-}
-.footer-icons{
-    position: absolute;
-    width:0px;
-    -webkit-transition: width 0.3s linear 0s;
-    transition: width 0.3s linear 0s; z-index:10;
 }
