@@ -25,7 +25,6 @@ ul a {
   color: whitesmoke;
 }
 p::first-letter {
-    font-size: 200%;
     color: black;
     text-indent: -20px;
     padding-left: 20px
