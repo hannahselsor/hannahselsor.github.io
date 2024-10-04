@@ -13,9 +13,21 @@ main{border-bottom: 0px solid black; background-color: #E38D71;}
 footer { border-top: 1px solid black; clear: both; font-size: small; font-family: Arial; background-image: url(./images/backgrounds.jpg); background-repeat:no-repeat; background-size:cover;}
 
 h1 {padding: 10px; font-size: 44pt; font-family: Georgia; background-color: #E38D71;}
+
+table {
+   table-layout:fixed;
+   width: 85%;
+   border: 1px solid black;
+ }
+ 
+ td {
+   border: 1px solid black;
+   overflow: hidden;
+   white-space: wrap;
+ }
 }
 
-@media screen and (min-width: 1024px)
+ @media screen and (min-width: 1024px)
 {
 
 /*entire page style*/
@@ -27,7 +39,20 @@ header {border-bottom: 1px solid black; background-color: #E38D71;}
 main{border-bottom: 1px solid black; background-color: #E38D71;}
 footer { border-top: 1px solid black; clear: both; font-size: medium; font-family: Arial; background-image: url(./images/backgrounds.jpg); background-repeat:no-repeat; background-size:cover;}
 h1 {padding: 10px; font-size: 27pt; font-family: Georgia; background-color: #E38D71;}
+
+table {
+   table-layout:fixed;
+   width: 90%;
+   border: 1px solid black;
+ }
+ 
+ td {
+   border: 1px solid black;
+   overflow: hidden;
+   white-space: normal;
+ }
 }
+
 
 @media print {
     *{margin: 1%;}
